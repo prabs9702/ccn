@@ -1,10 +1,5 @@
 # ccn
 # congestion
-###############################################
-# Name : Nataraju A B
-#        Assistant Professor,
-#			Dept. of ECE, AIT, Bangalore
-############################################### 
 
 # Simulate an Ethernet LAN using ‘n’ nodes 
 # and set multiple traffic nodes and plot congestion 
